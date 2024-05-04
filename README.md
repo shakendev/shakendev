@@ -11,12 +11,9 @@ Bachelor's degree... without edu. Rus edu be like 🤡.
   * [ALE Rainbow](https://apps.apple.com/ru/app/ale-rainbow/id1053514112?l=en)
   * [OTCV for iPhone](https://apps.apple.com/ru/app/otcv-for-iphone/id461404180?l=en)
 * Backdrop Build v4 (Like a "pre-accelerator")
-  * [MarlinKit](https://github.com/shakendev/MarlinKit)
-  * [MarlinKit Demo](https://github.com/shakendev/MarlinKit-Demo)
+  * [MarlinKit](https://github.com/shakendev/MarlinKit) · [Demo](https://github.com/shakendev/MarlinKit-Demo)
 * IBS
-  * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit)
-  * [IBSKit Sources](https://github.com/IBS-Mobile-iOS/IBSKit-Sources)
-  * [IBSKit Article](https://habr.com/ru/company/ibs/blog/712162/)
+  * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit) · [Sources](https://github.com/IBS-Mobile-iOS/IBSKit-Sources) · [Article](https://habr.com/ru/company/ibs/blog/712162/)
 * Melon Fashion Group
   * [Zarina](https://apps.apple.com/ru/app/zarina-%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B8-%D0%B0%D0%BA%D1%81%D0%B5%D1%81%D1%81%D1%83%D0%B0%D1%80%D1%8B/id1640213769?l=en)
   * [MelonKit](https://github.com/Melon-Fashion-Group/MelonKit-iOS)
