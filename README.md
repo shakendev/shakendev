@@ -2,8 +2,8 @@
 
  I’m an **experienced iOS Developer**: started from iOS 9 - and I'm still in!
 
-🌃 PBR AR-Evangelist. 
-🎮 Game Engine Dev. ITMO University.
+🌃 PBR AR-Evangelist.  
+🎮 Game Engine Dev. ITMO University.  
 Bachelor's degree... without edu. Rus edu be like 🤡.
 
 👔 I worked on many projects for well-known and not so well-known companies:
