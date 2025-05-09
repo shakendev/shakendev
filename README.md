@@ -10,6 +10,7 @@ Bachelor's degree... without edu. Rus edu be like 🤡.
 * ALE International
   * [ALE Rainbow](https://apps.apple.com/ru/app/ale-rainbow/id1053514112?l=en)
   * [OTCV for iPhone](https://apps.apple.com/ru/app/otcv-for-iphone/id461404180?l=en)
+  * [ALE SoftPhone](https://apps.apple.com/ru/app/ale-softphone/id1588713865?l=en-GB)
 * IBS
   * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit) · [Sources](https://github.com/IBS-Mobile-iOS/IBSKit-Sources) · [Article](https://habr.com/ru/company/ibs/blog/712162/)
 * Lofticries Games
