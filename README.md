@@ -4,7 +4,7 @@
 
 🌃 PBR AR-Evangelist.  
 🎮 Game Engine Dev. ITMO University.  
-Bachelor's degree... without edu. Rus edu be like 🤡.
+Bachelor's degree... without edu.
 
 👔 I worked on many projects for well-known and not so well-known companies:
 * ALE International
